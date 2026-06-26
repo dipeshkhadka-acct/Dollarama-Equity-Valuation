@@ -65,7 +65,7 @@ Three-segment bottom-up build from FY2026A → FY2031E:**FY26A $7.3B → FY27E $
 
 ## Data Sources
 
-- Dollarama Inc. primary filings (SEDAR+)
+- Dollarama Inc. primary filings (company financials)
 - TRS ASX filings
 - Bank of Canada (risk-free rate)
 - Damodaran Online (equity risk premium, Jan 2026)
@@ -78,7 +78,7 @@ Three-segment bottom-up build from FY2026A → FY2031E:**FY26A $7.3B → FY27E $
 Built by **Dipesh Khadka** — Accounting Coordinator, pursuing CPA.
 Open to roles in Corporate Finance, FP&A, and Equity Research.
 
-Methodology informed by [Parth Verma's equity research playlist](https://www.youtube.com/@ParthVerma).
+Methodology informed by [Parth Verma's Learn Financial Modelling playlist](https://www.youtube.com/@ParthVerma).
 
 📧 dkhadka.acct@gmail.com
 🔗 [linkedin.com/in/dipesh07](https://linkedin.com/in/dipesh07)
