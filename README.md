@@ -75,8 +75,8 @@ Three-segment bottom-up build from FY2026A → FY2031E:**FY26A $7.3B → FY27E $
 
 ## About
 
-Built by **Dipesh Khadka** — Accounting Coordinator, pursuing CPA.
-Open to roles in Corporate Finance, FP&A, and Equity Research.
+Built by **Dipesh Khadka** — Accounting Coordinator
+Open to learn Corporate Finance, FP&A, and Equity Research.
 
 Methodology informed by [Parth Verma's Learn Financial Modelling playlist](https://www.youtube.com/@ParthVerma).
 
